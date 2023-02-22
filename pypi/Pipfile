@@ -4,7 +4,7 @@ verify_ssl = true
 name = "pypi"
 
 [packages]
-ujson = "==5.2.0"
+ujson = "==5.7.0"
 
 [dev-packages]
 
