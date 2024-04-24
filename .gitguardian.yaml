@@ -1,0 +1,7 @@
+version: 2
+sca:
+  ignored_vulnerabilities:
+    - identifier: GHSA-w228-rfpx-fhm4
+      path: qa/pdm.lock
+      comment: 'Vulnerability does not concern this repository.'
+      until: '2024-01-01T00:00:01Z'
